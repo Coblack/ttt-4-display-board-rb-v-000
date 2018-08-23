@@ -1,4 +1,5 @@
-board=
+ruby
+board = [" "," "," "," "," "," "," "," "," "]
 
 def display_board(board)
   print ("   |   |   \n")
